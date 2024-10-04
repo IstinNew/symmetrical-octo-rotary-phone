@@ -3,7 +3,7 @@ PowerBI-Report-Publishing-Guide
 # PowerBI-Report-Publishing-Guide
 
 This repository provides a comprehensive guide on how to publish a Power BI report from start to finish. It includes step-by-step instructions, necessary tools, and tips for a smooth publishing process. 
-### Link to the final PowerBI Report:
+#### Link to the final PowerBI Report:
 
 ## Table of Contents
 1. Introduction
